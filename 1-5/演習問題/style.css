@@ -3,3 +3,56 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.b1 {
+  background-color: #e6ffe9;
+}
+
+.b2 {
+  background-color: #cbffd3;
+}
+
+.b3 {
+  background-color: #aeffbd;
+}
+
+.b4 {
+  background-color: #93ffab;
+}
+
+.b5 {
+  background-color: #f3ffd8;
+}
+
+.b6 {
+  background-color: #edffbe;
+}
+
+.b7 {
+  background-color: #e9ffa5;
+}
+
+.b8 {
+  background-color: #e4ff8d;
+}
+
+.b9 {
+  background-color: #d9e5ff;
+}
+
+.b10 {
+  background-color: #bad3ff;
+}
+
+.b11 {
+  background-color: #a4c6ff;
+}
+
+.b12 {
+  background-color: #8eb8ff;
+}
