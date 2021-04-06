@@ -9,3 +9,7 @@ header {
 nav {
   text-align: center;
 }
+
+.list {
+  padding-left: 40px;
+}
