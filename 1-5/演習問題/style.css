@@ -64,3 +64,7 @@
 .b12 {
   background-color: #8eb8ff;
 }
+
+.clear {
+  clear: left;
+}
