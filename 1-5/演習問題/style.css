@@ -13,6 +13,7 @@ nav {
 .list-item {
   float: left;
   padding: 15px 20px;
+  list-style: none;
 }
 
 .main {
