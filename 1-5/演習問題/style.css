@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.main {
+  width: 800px;
+  padding: 50px 0;
+}
+
 .box {
   width: 200px;
   height: 200px;
