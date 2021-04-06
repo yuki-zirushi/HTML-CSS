@@ -68,3 +68,13 @@
 .clear {
   clear: left;
 }
+
+footer {
+  background-color: #848282;
+  height: 120px;
+}
+
+footer p {
+  color: #fff;
+  line-height: 120px;
+}
