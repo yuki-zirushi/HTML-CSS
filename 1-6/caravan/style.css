@@ -37,6 +37,7 @@ header .heading {
   height: 300px; /* 高さ300px */
   background-image: url(img/mv.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 .main-visual-content {
