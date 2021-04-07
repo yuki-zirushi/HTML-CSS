@@ -89,6 +89,11 @@ main {
   height: 180px;
 }
 
+.blog-date {
+  font-size: 12px;
+  display: inline-block;
+}
+
 .category {
   display: inline-block;
   padding: 5px 8px;
