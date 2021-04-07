@@ -49,6 +49,15 @@ header .heading {
   padding-top: 105px;
 }
 
+.main-visual-text {
+  color: #fff;
+}
+
+.main-visual-name {
+  margin-top: 30px;
+  color: #fff;
+}
+
 .main {
   width: 840px; /* 横幅840px */
   display: flex; /* Flexboxの利用 */
