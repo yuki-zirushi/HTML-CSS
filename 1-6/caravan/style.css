@@ -45,6 +45,8 @@ header .heading {
   width: 40%; /* 横幅40% */
   height: 300px; /* 親の高さに揃える */
   background-color: rgba( 0, 0, 0, 0.5);
+  text-align: center;
+  padding-top: 105px;
 }
 
 .main {
