@@ -143,6 +143,11 @@ main {
   border: none;
 }
 
+.instagram .sidebar-contents {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 footer {
   width: 100%;
   height: 120px;
