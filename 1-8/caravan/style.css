@@ -136,6 +136,13 @@ main {
   margin-bottom: 5px;
 }
 
+.popular-text:last-child,
+.categories-text:last-child {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
 footer {
   width: 100%;
   height: 120px;
