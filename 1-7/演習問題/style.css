@@ -8,6 +8,7 @@ header {
   background-image: url(img/mv.jpg);
   height: 400px;
   background-position: bottom;
+  background-size: cover;
 }
 
 .heading {
