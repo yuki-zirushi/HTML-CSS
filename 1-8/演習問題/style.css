@@ -29,21 +29,21 @@
 .box {
   height: 200px;
   width: 30%;
-  background-color: yellow;
+  background-color: #ffd700;
   margin-bottom: 40px;
   margin-right: 5%;
 }
 
 .box:nth-child(1) {
-  background-color: orange;
+  background-color: #ff8c00;
 }
 
 .box:nth-child(5) {
-  background-color: orange;
+  background-color: #ff8c00;
 }
 
 .box:nth-child(9) {
-  background-color: orange;
+  background-color: #ff8c00;
 }
 
 .box:nth-child(3n) {
