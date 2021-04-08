@@ -160,6 +160,10 @@ main {
   margin-right: 10px;
 }
 
+.instagram-box:nth-child(1) {
+  background-image: url(img/airport.jpg);
+}
+
 footer {
   width: 100%;
   height: 120px;
