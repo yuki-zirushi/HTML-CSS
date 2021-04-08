@@ -15,7 +15,7 @@
 }
 
 .list:nth-child(odd) {
-  background-color: gray;
+  background-color: #eee;
 }
 
 .boxes {
