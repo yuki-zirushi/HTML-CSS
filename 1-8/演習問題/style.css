@@ -17,3 +17,8 @@
 .list:nth-child(odd) {
   background-color: gray;
 }
+
+.box {
+  height: 200px;
+  width: 30%;
+}
