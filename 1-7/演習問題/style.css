@@ -9,3 +9,7 @@ header {
   height: 400px;
   background-position: bottom;
 }
+
+.heading {
+  padding: 20px;
+}
