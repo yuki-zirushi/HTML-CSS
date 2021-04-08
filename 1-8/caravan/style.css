@@ -176,6 +176,10 @@ main {
   background-image: url(img/japan2.jpg);
 }
 
+.instagram-box:nth-child(5) {
+  background-image: url(img/lake.jpg);
+}
+
 
 footer {
   width: 100%;
