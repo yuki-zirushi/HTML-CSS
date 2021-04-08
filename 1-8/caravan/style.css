@@ -168,6 +168,10 @@ main {
   background-image: url(img/japan.jpg);
 }
 
+.instagram-box:nth-child(3) {
+  background-image: url(img/snow.jpg);
+}
+
 
 footer {
   width: 100%;
