@@ -26,6 +26,7 @@
 .box {
   height: 200px;
   width: 30%;
+  background-color: yellow;
 }
 
 .box:nth-child(1) {
