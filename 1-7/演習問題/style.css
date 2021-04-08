@@ -13,3 +13,9 @@ header {
 .heading {
   padding: 20px;
 }
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
