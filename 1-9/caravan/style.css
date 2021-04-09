@@ -20,6 +20,7 @@ header {
 .social i {
   display: inline-block;
   margin-left: 20px;
+  position: absolute;
   top: 22px;
   right: 22px;
 }
