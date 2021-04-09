@@ -13,19 +13,20 @@ main {
   padding: 50px;
 }
 
-.content {
+.content-image {
   width: 300px;
+  height: 150px;
 }
 
-.step1 {
+.content-image1 {
   background-image: url(img/flow01.png);
 }
 
-.step2 {
+.content-image2 {
   background-image: url(img/flow02.png);
 }
 
-.step3 {
+.content-image3 {
   background-image: url(img/flow03.png);
 }
 
