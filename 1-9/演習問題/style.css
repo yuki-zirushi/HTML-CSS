@@ -16,6 +16,10 @@ main {
   margin: 0 auto;
 }
 
+#step2 {
+  padding: 0 30px;
+}
+
 .content {
   width: 300px;
   background-color: #EEEEEE;
