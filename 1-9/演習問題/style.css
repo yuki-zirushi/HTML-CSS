@@ -17,6 +17,7 @@ main {
 .content {
   width: 300px;
   background-color: #EEEEEE;
+  padding: 10px;
 }
 
 .content-image {
