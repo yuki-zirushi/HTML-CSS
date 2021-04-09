@@ -9,6 +9,10 @@ header {
   height: 50px;
 }
 
+main {
+  padding: 50px;
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
