@@ -13,6 +13,10 @@ main {
   padding: 50px;
 }
 
+.content {
+  width: 300px;
+}
+
 .step1 {
   background-image: url(img/flow01.png);
 }
