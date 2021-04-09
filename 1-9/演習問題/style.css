@@ -18,15 +18,15 @@ main {
   height: 150px;
 }
 
-.content-image1 {
+.step1 {
   background-image: url(img/flow01.png);
 }
 
-.content-image2 {
+.step2 {
   background-image: url(img/flow02.png);
 }
 
-.content-image3 {
+.step3 {
   background-image: url(img/flow03.png);
 }
 
