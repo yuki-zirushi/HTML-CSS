@@ -13,8 +13,11 @@ main {
   padding: 50px;
 }
 
-.content-image {
+.content {
   width: 300px;
+}
+
+.content-image {
   height: 150px;
 }
 
