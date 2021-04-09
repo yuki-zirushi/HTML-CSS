@@ -6,8 +6,10 @@
 
 header {
   background-color: #FF9A4B;
+  height: 50px;
 }
 
 footer {
   background-color: #AAAAAA;
+  height: 50px;
 }
