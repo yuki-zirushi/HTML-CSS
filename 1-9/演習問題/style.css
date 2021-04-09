@@ -13,6 +13,18 @@ main {
   padding: 50px;
 }
 
+.step1 {
+  background-image: url(img/flow01.png);
+}
+
+.step2 {
+  background-image: url(img/flow02.png);
+}
+
+.step3 {
+  background-image: url(img/flow03.png);
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
