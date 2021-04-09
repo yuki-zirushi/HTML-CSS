@@ -3,3 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: #FF9A4B;
+}
+
+footer {
+  background-color: #AAAAAA;
+}
