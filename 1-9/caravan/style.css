@@ -24,6 +24,9 @@ header {
 .social i {
   display: inline-block;
   margin-left: 20px;
+}
+
+.social {
   position: absolute;
   top: 22px;
   right: 22px;
