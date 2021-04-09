@@ -34,6 +34,14 @@ main {
   background-image: url(img/flow03.png);
 }
 
+.content-text h3 {
+  padding-top: 15px;
+}
+
+.content-text p {
+  padding-top: 5px;
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
