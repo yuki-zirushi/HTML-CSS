@@ -25,7 +25,8 @@ main {
 }
 
 .steps {
-  color: white;
+  color: #fff;
+  padding: 3px;
 }
 
 .content {
