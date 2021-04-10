@@ -5,7 +5,6 @@
 }
 
 header {
-  background-color: #FF9A4B;
   height: 50px;
 }
 
@@ -19,6 +18,14 @@ main {
 
 #step2 {
   padding: 0 30px;
+}
+
+.steps, header {
+  background-color: #FF9A48;
+}
+
+.steps {
+  color: white;
 }
 
 .content {
