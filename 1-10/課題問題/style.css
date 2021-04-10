@@ -96,6 +96,7 @@ footer {
 
   #step1, #step2, #step3 {
     width: 300px;
+    margin: 0 auto;
   }
 
   #step1 {
