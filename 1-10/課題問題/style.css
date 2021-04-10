@@ -94,6 +94,10 @@ footer {
     display: block;
   }
 
+  #step1, #step2, #step3 {
+    width: 300px;
+  }
+
   #step1 {
     position: relative;
   }
