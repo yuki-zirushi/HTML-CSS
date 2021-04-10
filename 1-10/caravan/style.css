@@ -232,4 +232,8 @@ footer {
   header {
     width: 100%;
   }
+
+  .nav-list {
+    width: 100%;
+  }
 }
