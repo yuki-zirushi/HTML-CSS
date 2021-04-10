@@ -268,4 +268,9 @@ footer {
   .blog-image {
     width: 49%;
   }
+
+  .blog-text {
+    width: 49%;
+    padding-top: 5px;
+  }
 }
