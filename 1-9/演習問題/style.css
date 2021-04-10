@@ -10,7 +10,7 @@ header {
 }
 
 main {
-  padding: 50px;
+  padding: 50px 0;
   display: flex;
   width: 960px;
   margin: 0 auto;
@@ -35,13 +35,13 @@ main {
 .step2p {
   position: absolute;
   top: 50px;
-  left: 380px;
+  left: 330px;
 }
 
 .step3p {
   position: absolute;
   top: 50px;
-  left: 710px;
+  left: 660px;
 }
 
 .content-image {
