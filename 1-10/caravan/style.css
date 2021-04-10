@@ -249,4 +249,9 @@ footer {
   .main-visual-content {
     width: 100%;
   }
+
+  main {
+    width: 100%;
+    display: block;
+  }
 }
