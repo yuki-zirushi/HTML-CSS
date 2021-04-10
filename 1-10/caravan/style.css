@@ -245,4 +245,8 @@ footer {
   .social {
     display: none;
   }
+
+  .main-visual-content {
+    width: 100%;
+  }
 }
