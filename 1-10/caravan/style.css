@@ -273,4 +273,10 @@ footer {
     width: 49%;
     padding-top: 5px;
   }
+
+  .sidebar {
+    width: 100%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
 }
