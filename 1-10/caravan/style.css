@@ -288,4 +288,8 @@ footer {
   .instagram-box:nth-child(odd) {
     margin-right: 4%;
   }
+
+  .pagination {
+    margin-bottom: 50px;
+  }
 }
