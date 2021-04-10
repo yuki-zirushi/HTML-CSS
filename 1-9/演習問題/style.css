@@ -53,6 +53,7 @@ main {
 
 .content-image {
   height: 150px;
+  background-size: cover;
 }
 
 .step1 {
