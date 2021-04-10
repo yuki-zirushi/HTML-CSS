@@ -94,6 +94,36 @@ footer {
     display: block;
   }
 
+  #step1 {
+    position: relative;
+  }
+
+  .step1p {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  #step2 {
+    position: relative;
+  }
+
+  .step2p {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  #step3 {
+    position: relative;
+  }
+
+  .step3p {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
   footer {
     width: 100%;
   }
