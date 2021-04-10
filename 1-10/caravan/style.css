@@ -264,4 +264,8 @@ footer {
     padding-left: 2%;
     padding-right: 2%;
   }
+
+  .blog-image {
+    width: 49%;
+  }
 }
