@@ -91,6 +91,7 @@ footer {
 
   main {
     width: 100%;
+    display: block;
   }
 
   footer {
